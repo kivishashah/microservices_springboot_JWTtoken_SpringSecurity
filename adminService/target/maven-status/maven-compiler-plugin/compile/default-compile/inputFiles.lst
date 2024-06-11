@@ -1,0 +1,7 @@
+/home/dev29/Documents/microservices/adminService/src/main/java/com/example/adminService/repository/AdminRepository.java
+/home/dev29/Documents/microservices/adminService/src/main/java/com/example/adminService/entity/StartupProperties.java
+/home/dev29/Documents/microservices/adminService/src/main/java/com/example/adminService/AdminServiceApplication.java
+/home/dev29/Documents/microservices/adminService/src/main/java/com/example/adminService/dto/LoginRequest.java
+/home/dev29/Documents/microservices/adminService/src/main/java/com/example/adminService/entity/Admin.java
+/home/dev29/Documents/microservices/adminService/src/main/java/com/example/adminService/service/ApplicationStartUp.java
+/home/dev29/Documents/microservices/adminService/src/main/java/com/example/adminService/controller/AdminController.java
