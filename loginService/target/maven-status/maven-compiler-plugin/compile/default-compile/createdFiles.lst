@@ -1,0 +1,5 @@
+com/example/loginService/service/AuthenticationService.class
+com/example/loginService/LoginRequest.class
+com/example/loginService/controller/LoginServiceController.class
+com/example/loginService/LoginServiceApplication.class
+com/example/loginService/config/LoginServiceConfig.class
